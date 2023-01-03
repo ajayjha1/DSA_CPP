@@ -1,3 +1,5 @@
+// Find peak index in an mountain array
+
 #include<iostream>
 
 using namespace std;  
